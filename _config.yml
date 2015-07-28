@@ -1,0 +1,13 @@
+# Site settings
+title: Kasper Baagø - Web udvikler og medejer af Edentic
+email: kasper@kasperbaago.dk
+description:
+  En blog omkring buisness, kode og alt derimellem.
+  Bloggens primære formål er opsamling og dokumentation af den viden og erfaring jeg får igennem min dagligdag.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kasperbaago.dk" # the base hostname & protocol for your site
+twitter_username: kasperbaago
+github_username:  kasperbaago
+
+# Build settings
+markdown: kramdown
